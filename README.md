@@ -1,5 +1,11 @@
 # PokedexAngular
 
+Este é um projeto de uma pokedex, ele mostra informações sobre 250 Pokemons diferentes, tais como Imagem, Nome e Tipo.
+
+Para a obter as informações de nome, imagem e tipo utilizei a API 'https://pokeapi.co/api/v2/pokemon/?offset=0&limit=250'.
+
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.5.
 
 ## Development server
